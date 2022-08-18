@@ -1,3 +1,5 @@
+import "package:hello_world/variables.dart" as variables;
+
 void main(List<String> arguments) {
-  print(5/2);
+  variables.number();
 }
